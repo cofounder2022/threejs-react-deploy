@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/threejs-react-deploy/static/css/main.073c9b0a.css",
-    "main.js": "/github.io/threejs-react-deploy/static/js/main.0d29b3f1.js",
-    "static/js/787.7271274e.chunk.js": "/github.io/threejs-react-deploy/static/js/787.7271274e.chunk.js",
-    "index.html": "/github.io/threejs-react-deploy/index.html",
-    "main.073c9b0a.css.map": "/github.io/threejs-react-deploy/static/css/main.073c9b0a.css.map",
-    "main.0d29b3f1.js.map": "/github.io/threejs-react-deploy/static/js/main.0d29b3f1.js.map",
-    "787.7271274e.chunk.js.map": "/github.io/threejs-react-deploy/static/js/787.7271274e.chunk.js.map"
+    "main.css": "/threejs-react-deploy/static/css/main.073c9b0a.css",
+    "main.js": "/threejs-react-deploy/static/js/main.fef89a09.js",
+    "static/js/787.7271274e.chunk.js": "/threejs-react-deploy/static/js/787.7271274e.chunk.js",
+    "index.html": "/threejs-react-deploy/index.html",
+    "main.073c9b0a.css.map": "/threejs-react-deploy/static/css/main.073c9b0a.css.map",
+    "main.fef89a09.js.map": "/threejs-react-deploy/static/js/main.fef89a09.js.map",
+    "787.7271274e.chunk.js.map": "/threejs-react-deploy/static/js/787.7271274e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0d29b3f1.js"
+    "static/js/main.fef89a09.js"
   ]
 }
